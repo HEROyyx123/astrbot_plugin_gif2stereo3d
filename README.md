@@ -1,0 +1,1 @@
+# astrbot_plugin_gif2stereo3d
