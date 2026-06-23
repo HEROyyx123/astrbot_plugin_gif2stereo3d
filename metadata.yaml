@@ -1,0 +1,6 @@
+name: gif2stereo3d
+display_name: GIF转裸眼3D
+desc: 将GIF图像转换为裸眼3D效果的插件
+version: v1.0.0
+author: YourName
+repo: https://github.com/YourName/gif2stereo3d
